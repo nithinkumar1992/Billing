@@ -1,0 +1,6 @@
+com\vin\docker\Application.class
+com\vin\docker\web\NameController.class
+com\vin\docker\service\NameService.class
+com\vin\docker\Application$1.class
+com\vin\docker\service\NameRepository.class
+com\vin\docker\entity\NameEntity.class

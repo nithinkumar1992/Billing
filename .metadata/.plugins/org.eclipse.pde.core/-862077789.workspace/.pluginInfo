@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="1134" class="com.sebulli.fakturama.Activator" localization="OSGI-INF/l10n/bundle" name="Fakturama" project="dastana" provider="sebulli.com">
+		<library name="."/>
+		<library name="resources/"/>
+	</bundle>
+</map>

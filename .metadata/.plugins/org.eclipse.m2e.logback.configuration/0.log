@@ -1,0 +1,203 @@
+2017-06-04 22:45:21,214 [pool-6-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:45:21,223 [pool-6-thread-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:45:23,259 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2017-06-04 22:45:23,840 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2017-06-04 22:45:23,856 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2017-06-04 22:45:24,216 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:45:24,629 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-04 22:45:24,759 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-04 22:48:39,168 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:39,853 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2017-06-04 22:48:39,878 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:40,443 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2017-06-04 22:48:41,133 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2017-06-04 22:48:51,211 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring-boot:spring-boot:0.0.1-SNAPSHOT @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:48:51,674 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:52,452 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2017-06-04 22:48:52,503 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:52,911 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2017-06-04 22:48:52,929 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2017-06-04 22:48:53,572 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:54,403 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2017-06-04 22:48:54,480 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:54,900 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2017-06-04 22:48:54,921 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2017-06-04 22:48:55,374 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:56,031 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2017-06-04 22:48:56,102 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:56,497 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2017-06-04 22:48:56,520 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2017-06-04 22:48:57,012 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:57,660 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2017-06-04 22:48:57,692 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:58,094 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2017-06-04 22:48:58,112 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2017-06-04 22:48:58,664 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:59,302 [New I/O client worker #14-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2017-06-04 22:48:59,326 [New I/O client worker #14-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2017-06-04 22:48:59,340 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2017-06-04 22:48:59,420 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:48:59,790 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2017-06-04 22:48:59,844 [New I/O client worker #15-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2017-06-04 22:48:59,869 [New I/O client worker #15-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2017-06-04 22:49:00,395 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2017-06-04 22:49:01,021 [New I/O client worker #15-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2017-06-04 22:49:01,637 [New I/O client worker #15-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2017-06-04 22:49:09,429 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:49:10,061 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2017-06-04 22:49:10,093 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-04 22:49:10,700 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2017-06-04 22:49:11,244 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2017-06-04 22:49:11,913 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:49:23,922 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:23,967 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:49:24,024 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:49:24,057 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:24,058 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:49:24,199 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot/src
+2017-06-04 22:49:24,200 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-boot/src overlaps with sources folder /spring-boot/src
+2017-06-04 22:49:24,343 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-boot/src/test/java because it overlaps with /spring-boot/src
+2017-06-04 22:49:33,734 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:49:33,912 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-06-04 22:49:36,083 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:36,409 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:49:36,469 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:49:36,490 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:36,491 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:49:37,471 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:49:39,497 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-boot/src/main/java because it overlaps with /spring-boot/src
+2017-06-04 22:49:39,512 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-boot/src/main/resources overlaps with sources folder /spring-boot/src
+2017-06-04 22:49:39,579 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-boot/src/main/resources overlaps with sources folder /spring-boot/src
+2017-06-04 22:49:39,599 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-boot/src/test/java because it overlaps with /spring-boot/src
+2017-06-04 22:49:40,503 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:49:41,528 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:41,542 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:49:41,609 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:49:41,612 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:41,623 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:49:42,118 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2017-06-04 22:49:45,696 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:49:46,565 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:46,578 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:49:46,595 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:49:46,611 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:49:46,612 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:49:48,238 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nithin\Documents\Workspace\spring-boot
+2017-06-04 22:49:48,242 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\Nithin\.m2\settings.xml install
+2017-06-04 22:50:25,770 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:50:25,771 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:50:25,795 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:50:25,799 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:50:25,818 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:51:53,735 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:51:53,754 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:51:53,778 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:51:53,795 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:51:53,796 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:51:56,905 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 22:51:57,777 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:51:57,777 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:51:57,778 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:51:57,782 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:51:57,782 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 22:52:07,510 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nithin\Documents\Workspace\spring-boot
+2017-06-04 22:52:07,510 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\Nithin\.m2\settings.xml install
+2017-06-04 22:54:24,849 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:54:24,851 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 22:54:24,907 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 22:54:24,923 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 22:54:24,934 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 23:19:37,584 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-04 23:20:46,478 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 23:20:46,555 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 23:20:46,687 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 23:20:46,693 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 23:20:46,694 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 23:22:32,915 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nithin\Documents\Workspace\spring-boot
+2017-06-04 23:22:32,919 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\Nithin\.m2\settings.xml install
+2017-06-04 23:23:50,779 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 23:23:50,825 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-04 23:23:50,847 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-04 23:23:50,852 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-04 23:23:50,852 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-04 23:44:11,457 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nithin\Documents\Workspace\spring-boot
+2017-06-04 23:44:11,459 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\Nithin\.m2\settings.xml clean compile package install 
+2017-06-05 14:28:41,360 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-05 14:29:12,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:29:12,742 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-05 14:29:12,969 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-05 14:29:12,986 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:29:12,987 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-05 14:29:49,690 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-06-05 14:30:02,268 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:30:06,516 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-05 14:30:06,627 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-05 14:30:06,630 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:30:06,631 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-06-05 14:32:51,904 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-05 14:32:53,258 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/release/org/apache/maven/plugins/maven-site-plugin/3.5.1/maven-site-plugin-3.5.1.jar
+2017-06-05 14:32:53,296 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-06-05 14:32:54,144 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.5.1/maven-site-plugin-3.5.1.jar
+2017-06-05 14:32:55,152 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.5.1/maven-site-plugin-3.5.1.jar
+2017-06-05 14:32:57,319 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:spring-boot-web-jsp:1.0 @ C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\pom.xml.
+2017-06-05 14:33:11,601 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-web-jsp/src/main/java
+2017-06-05 14:33:11,604 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-boot-web-jsp/src/main/resources overlaps with sources folder /spring-boot-web-jsp/src/main/resources
+2017-06-05 14:33:11,811 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-boot-web-jsp/src/main/resources overlaps with sources folder /spring-boot-web-jsp/src/main/resources
+2017-06-05 14:33:11,885 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-web-jsp/src/test/java
+2017-06-05 14:33:13,360 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:spring-boot-web-jsp:1.0 @ C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\pom.xml.
+2017-06-05 14:33:14,183 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:33:14,193 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-05 14:33:14,208 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-05 14:33:14,224 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-05 14:33:14,224 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\src\test\resources
+2017-06-05 14:33:27,326 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp
+2017-06-05 14:33:27,330 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\Nithin\.m2\settings.xml install
+2017-07-06 11:27:01,927 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-07-06 11:27:15,603 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:27:15,612 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 11:27:16,366 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:27:16,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:27:16,374 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-07-06 11:27:18,045 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-07-06 11:27:26,192 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:spring-boot-web-jsp:1.0 @ C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\pom.xml.
+2017-07-06 11:27:38,412 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:spring-boot-web-jsp:1.0 @ C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\pom.xml.
+2017-07-06 11:27:45,484 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:27:45,486 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 11:27:45,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 11:27:45,524 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:27:45,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\src\test\resources
+2017-07-06 11:27:49,605 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vin.docker:tomcat-example:1.0.RELEASE @ C:\Users\Nithin\Documents\Workspace\spring-boot\pom.xml.
+2017-07-06 11:27:51,190 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:spring-boot-web-jsp:1.0 @ C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\pom.xml.
+2017-07-06 11:28:03,917 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:28:04,014 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 11:28:04,068 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:28:04,072 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:28:04,086 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-07-06 11:49:59,200 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:49:59,211 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:49:59,226 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:49:59,240 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:49:59,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-07-06 11:49:59,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:49:59,275 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:49:59,284 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 11:49:59,289 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 11:49:59,289 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\src\test\resources
+2017-07-06 12:06:47,397 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:06:47,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 12:06:47,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 12:06:47,681 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:06:47,681 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-07-06 12:07:41,896 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:07:41,898 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 12:07:41,911 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 12:07:41,915 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:07:41,925 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot-web-jsp\src\test\resources
+2017-07-06 12:09:32,242 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:09:32,262 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 12:09:32,277 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-06 12:09:32,297 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:09:32,298 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nithin\Documents\Workspace\spring-boot\src\test\resources
+2017-07-06 12:09:33,236 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-06 12:09:33,258 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-06 12:09:33,279 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

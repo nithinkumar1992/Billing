@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="resources" sourcepath="resources"/>
+	<classpathentry kind="lib" path="C:/Users/Nithin/Documents/Workspace/dastana/plugins/ag.ion.noa_2.2.304.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nithin/Documents/Workspace/dastana/plugins/au.com.bytecode.opencsv_2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nithin/Documents/Workspace/dastana/plugins/org.hsqldb.hsqldb_2.2.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_101"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

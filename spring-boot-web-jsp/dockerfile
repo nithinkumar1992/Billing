@@ -1,0 +1,17 @@
+######################################
+# Spring-boot application Base Image #
+######################################
+
+# Set the base image to our base
+FROM nithinkumar1992/springbase
+
+# File Author
+MAINTAINER Nithin K @https://hub.docker.com/r/nithinkumar1992/
+
+ENV JAVA_HOME=/usr/java/latest
+
+COPY ./target/spring-boot-web-jsp-1.0.war /app/
+
+EXPOSE 8080
+
+ENTRYPOINT ["java","-jar", "/app/spring-boot-web-jsp-1.0.war"]
